@@ -1,0 +1,14 @@
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\bin\Debug\OrderApplication.exe.config
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\bin\Debug\OrderApplication.exe
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\bin\Debug\OrderApplication.pdb
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\obj\Debug\OrderApplication.csproj.AssemblyReference.cache
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\obj\Debug\OrderApplication.Form1.resources
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\obj\Debug\OrderApplication.Properties.Resources.resources
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\obj\Debug\OrderApplication.csproj.GenerateResource.cache
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\obj\Debug\OrderApplication.csproj.CoreCompileInputs.cache
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\obj\Debug\OrderApplication.exe
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\obj\Debug\OrderApplication.pdb
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\bin\Debug\EntityFramework.dll
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\bin\Debug\EntityFramework.xml
+C:\Users\manme\source\repos\OrderApplication\OrderApplication\bin\Debug\EntityFramework.SqlServer.xml
